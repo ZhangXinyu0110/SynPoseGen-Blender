@@ -2,6 +2,7 @@
 A Blender-based synthetic data generation pipeline for pose estimation with synchronized camera pose annotations.
 This project uses **Blender 4.1** to generate synthetic datasets with **camera pose annotations** for 6D pose estimation and computer vision tasks.
 Instead of using external scripts, the pipeline is implemented directly inside **Blender .blend files**, each representing a different level of domain randomization.
+![Pipeline Overview](overview.png)
 
 ---
 # Project Overview
